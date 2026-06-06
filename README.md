@@ -6,10 +6,10 @@ searching your photo library — built for photographers who want to *find* and
 
 ## Download
 
-**[⬇︎ Download the latest version](https://github.com/bsrivatsan/loupe-releases/releases/latest)**
+> **👉 On the release page, click the `Loupe-X.Y.Z.dmg` file under **Assets** to
+> download it.**
 
-On the release page, click the `Loupe-X.Y.Z.dmg` file under **Assets** to
-download it.
+**[⬇︎ Go to the latest release](https://github.com/bsrivatsan/loupe-releases/releases/latest)**
 
 Requires **macOS 14 (Sonoma) or later**.
 
