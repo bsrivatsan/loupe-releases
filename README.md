@@ -1,20 +1,46 @@
-# loupe-releases
+# Loupe
 
-Public hosting for [Loupe](https://dev.bharathsrivatsan.com/loupe/privacy)
-macOS app DMGs.
+A fast, native macOS app for browsing, organizing, tagging, rating, and
+searching your photo library — built for photographers who want to *find* and
+*organize* their shots without the weight of a full editor.
 
-This repo exists only to serve binaries — the source code lives in a
-separate private repo. GitHub serves private-repo release assets only
-to authenticated requests, which breaks both shareable download URLs
-and Sparkle auto-update; this public repo's release assets are
-reachable anonymously.
+## Download
 
-Auto-updates point at the [appcast on
-dev.bharathsrivatsan.com](https://dev.bharathsrivatsan.com/loupe/appcast.xml),
-whose `<enclosure url>` references the latest release here.
+**[⬇︎ Download the latest version](https://github.com/bsrivatsan/loupe-releases/releases/latest)**
 
-## Latest
+On the release page, click the `Loupe-X.Y.Z.dmg` file under **Assets** to
+download it.
 
-See the [Releases](https://github.com/bsrivatsan/loupe-releases/releases)
-tab. Each release ships a notarized, Sparkle-EdDSA-signed
-`Loupe-X.Y.Z.dmg`.
+Requires **macOS 14 (Sonoma) or later**.
+
+## Install
+
+1. Open the downloaded `.dmg`.
+2. Drag **Loupe** into your **Applications** folder.
+3. Launch Loupe from Applications (or Spotlight).
+
+Loupe is signed and notarized by Apple, so it opens normally — no security
+warnings to click through.
+
+## Updates
+
+Loupe keeps itself up to date. It checks for new versions automatically and
+will offer to download and install them for you — just click **Install Update**
+when prompted. You can also check any time from the **Loupe ▸ Check for
+Updates…** menu.
+
+## Feedback
+
+Found a bug or have a suggestion? I'd love to hear it.
+
+- In the app, press **⌘⇧B** (or **Help ▸ Send Feedback…**) to send feedback
+  directly from Loupe.
+
+This is an early beta, so feedback genuinely shapes where the app goes next.
+
+---
+
+See the [Releases](https://github.com/bsrivatsan/loupe-releases/releases) page
+for all versions and release notes. Loupe's
+[privacy policy](https://dev.bharathsrivatsan.com/loupe/privacy) covers what
+data the app does (and doesn't) collect.
