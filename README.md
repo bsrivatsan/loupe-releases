@@ -6,8 +6,8 @@ searching your photo library — built for photographers who want to *find* and
 
 ## Download
 
-> **👉 On the release page, click the `Loupe-X.Y.Z.dmg` file under **Assets** to
-> download it.**
+> **👉 On the release page, click the `Loupe-X.Y.Z.dmg` file under the "Assets"
+> section to download it.**
 
 **[⬇︎ Go to the latest release](https://github.com/bsrivatsan/loupe-releases/releases/latest)**
 
